@@ -13,8 +13,8 @@ that, I programmed humanoid robots.
 | **[Portfolio](https://portofolio-azriel-five.vercel.app)** | Personal site with an admin panel for content and uploads, plus page-by-page PDF export. Astro, Supabase. | live |
 | **[PTSI Company Profile](https://github.com/Azriel2828/Project_CompanyProfile_PTSI_Website)** | Company website with an admin panel for news and services. Next.js, Supabase. | [live](https://website-ptsi.vercel.app) |
 | **SMK3 Audit** | Replaces spreadsheet audits with department assignments, lead-auditor scoring, and Excel reports. CodeIgniter 3, MySQL. | private |
-| **CI3 Kit** | One command to a ready CodeIgniter 3 app with login, roles, audit log, tests, and a deploy package. | private |
-| **QA Playbook** | Manual test plans, Playwright E2E tests, and Postman API tests, run by GitHub Actions. | private |
+| **Inventaris** | QR-based warehouse inventory: scan from phone or desktop, stock in and out, printable labels, and offline mode. CodeIgniter 3, MariaDB. | private |
+| **Form Evidence** | Collects activity and cost evidence across four form types, with watermarked photos, PDF export, and Excel recaps. CodeIgniter 3, MariaDB. | private |
 
 ## Robotics and IoT
 
