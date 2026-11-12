@@ -10,7 +10,7 @@ that, I programmed humanoid robots.
 
 | | | |
 |---|---|---|
-| **[Portfolio](https://portofolio-azriel-five.vercel.app)** | Personal site with an admin panel for content and uploads, plus page-by-page PDF export. Astro, Supabase. | live |
+| **[Portfolio](https://portofolio-azriel-five.vercel.app)** | Personal site with an admin panel for content and uploads, plus page-by-page PDF export. Astro, Supabase. | [live](https://portofolio-azriel-five.vercel.app) |
 | **[PTSI Company Profile](https://github.com/Azriel2828/Project_CompanyProfile_PTSI_Website)** | Company website with an admin panel for news and services. Next.js, Supabase. | [live](https://website-ptsi.vercel.app) |
 | **SMK3 Audit** | Replaces spreadsheet audits with department assignments, lead-auditor scoring, and Excel reports. CodeIgniter 3, MySQL. | private |
 | **Inventaris** | QR-based warehouse inventory: scan from phone or desktop, stock in and out, printable labels, and offline mode. CodeIgniter 3, MariaDB. | private |
